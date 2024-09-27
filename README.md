@@ -1,4 +1,3 @@
-# SoundCap
-A Minecraft mod that allows you to increase the maximum number of sounds
+# SoundCap(Usable)
 
-![downloads](http://cf.way2muchnoise.eu/soundcap.svg)
+ver: 1.0.1
